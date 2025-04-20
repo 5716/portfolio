@@ -1,12 +1,30 @@
-# React + Vite
+# Saba Purtseladze - Front-End Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📑 About
 
-Currently, two official plugins are available:
+Welcome to my portfolio. This portfolio showcases my projects, skills, and passion for crafting clean, intuitive, and responsive user interfaces. 
+Thank you for visiting my portfolio and taking the time to explore my work! Your attention is greatly appreciated.
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Projects
 
-## Expanding the ESLint configuration
+Here are some of the key projects I’ve worked on:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **PS1 Emulator Frontend**: A website that allows users to play PS1 games directly in the browser through an online emulator.
+2. **Music Visualizer**: An interactive tool that lets users upload music and view real-time visualizations of the music.
+3. **Calorie & Weight Tracker**: A calorie and weight management app where users can track their food intake and calculate their ideal weight.
+4. **Guessing Game**: A fun guessing game that challenges players to guess items in different modes (easy, normal, hard).
+
+---
+
+
+## 🧑‍💻 Technologies Used
+- **React**: For building interactive and dynamic UIs.
+- **Vite**: A fast and modern build tool.
+- **Tailwind CSS**: A utility-first CSS framework for creating responsive and customizable designs.
+- **CSS/HTML**: For custom styling and layout.
+- **JavaScript**: For scripting and interactivity.
+
+![Image](https://github.com/user-attachments/assets/7e0643c5-bf14-4db7-8923-8aea42a93c6b)
+
+![Image](https://github.com/user-attachments/assets/e9681ee4-093c-42b6-beae-e337b5d0e09e)
