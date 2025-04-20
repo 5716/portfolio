@@ -18,7 +18,7 @@ Here are some of the key projects I’ve worked on:
 ---
 
 
-## 🧑‍💻 Technologies Used
+## 💻 Technologies Used
 - **React**: For building interactive and dynamic UIs.
 - **Vite**: A fast and modern build tool.
 - **Tailwind CSS**: A utility-first CSS framework for creating responsive and customizable designs.
